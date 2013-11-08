@@ -16,8 +16,8 @@ PRODUCT_PACKAGES += \
 	init.vee7.rc
 
 # Recovery files
-PRODUCT_PACKAGES += \
-	init.recovery.vee7.rc 
+#PRODUCT_PACKAGES += \
+#	init.recovery.vee7.rc 
 
 DEVICE_PACKAGE_OVERLAYS += device/lge/vee7e/overlay
 
